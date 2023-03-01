@@ -12,7 +12,7 @@ body {
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     background-color: #2a607c;
-    color: #ffffff;
+    color: #00ff00;
 }
 
 .header h1 {
@@ -21,7 +21,7 @@ body {
 }
 
 .header h1 .seo {
-    color: #d9dcd6;
+    color: #192f02;
 }
 
 .header div {
@@ -42,7 +42,7 @@ body {
 }
 
 a {
-    color: #ffffff;
+    color: #192f02;
     text-decoration: none;
 }
 
