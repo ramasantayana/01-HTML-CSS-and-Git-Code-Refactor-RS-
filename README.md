@@ -2,6 +2,6 @@
 
 Purpose of this assignment is to increase the accessibility of this current website by refactoring the starter code. 
 
-URL of Deployed Application: 
+URL of Deployed Application: https://ramasantayana.github.io/01-HTML-CSS-and-Git-Code-Refactor-RS-/
 
 https://github.com/ramasantayana/01-HTML-CSS-and-Git-Code-Refactor-RS-.git
